@@ -1,16 +1,10 @@
-#Uma API simples para acessar informações sobre equipes e pilotos da Fórmula 1.
+# API de Fórmula 1
+
+Uma API simples para acessar informações sobre equipes e pilotos da Fórmula 1.
 
 ## Instalação
 
 Certifique-se de ter o Node.js instalado e execute:
-
-#npm install
-
-## Iniciar o Servidor
-
-Para iniciar o servidor localmente, use:
-
-#npm run start:dev
 
 ## Rotas Disponíveis
 
