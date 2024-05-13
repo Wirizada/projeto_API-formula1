@@ -1,6 +1,3 @@
-
-#API de Fórmula 1
-
 #Uma API simples para acessar informações sobre equipes e pilotos da Fórmula 1.
 
 ## Instalação
